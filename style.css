@@ -8,3 +8,36 @@
 .red {
     background-color: red;
 }
+
+.box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px; 
+}
+
+.blue {
+    background-color: royalblue;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.green {
+    background-color: forestgreen;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;  
+}
+
+.yellow {
+    background-color: yellow;
+}
